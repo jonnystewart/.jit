@@ -1,0 +1,6 @@
+applications:
+- application_name: Angular Test Invicti
+  authentication_mode: non-authenticated
+  exclude_paths: []
+  target_url: http://angular.testinvicti.com/home
+  type: web
